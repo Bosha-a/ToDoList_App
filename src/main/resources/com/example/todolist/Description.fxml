@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<VBox xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.todolist.descriptionController">
+   <children>
+      <AnchorPane prefHeight="474.0" prefWidth="502.0" style="-fx-background-color: #070D65;">
+         <children>
+            <VBox alignment="CENTER" layoutX="378.0" layoutY="-56.0" prefHeight="122.0" prefWidth="92.0" spacing="20.0">
+               <AnchorPane />
+               <VBox />
+               <Label fx:id="welcomeText" />
+            </VBox>
+            <Label layoutX="10.0" layoutY="88.0" prefHeight="39.0" prefWidth="116.0" text="Task Name:" textFill="#ceddef">
+               <font>
+                  <Font name="System Bold" size="19.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="138.0" prefHeight="39.0" prefWidth="116.0" text="DeadLine:" textFill="#ceddef">
+               <font>
+                  <Font name="System Bold" size="19.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="188.0" prefHeight="39.0" prefWidth="116.0" text="Descreption:" textFill="#ceddef">
+               <font>
+                  <Font name="System Bold" size="19.0" />
+               </font>
+            </Label>
+            <Label fx:id="taskLabel" layoutX="129.0" layoutY="94.0" prefHeight="26.0" prefWidth="264.0" textFill="WHITE">
+               <font>
+                  <Font size="27.0" />
+               </font>
+            </Label>
+            <Label fx:id="deadlineLabel" layoutX="119.0" layoutY="138.0" prefHeight="26.0" prefWidth="264.0" textFill="WHITE">
+               <font>
+                  <Font size="27.0" />
+               </font>
+            </Label>
+            <TextArea fx:id="detailsTextArea" layoutX="69.0" layoutY="237.0" prefHeight="142.0" prefWidth="386.0" />
+            <Label layoutX="163.0" layoutY="14.0" prefHeight="54.0" prefWidth="195.0" text="Description" textAlignment="JUSTIFY" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="36.0" />
+               </font>
+            </Label>
+            <Line endX="116.0" layoutX="259.0" layoutY="65.0" startX="-113.20002746582031" stroke="#ceddef" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

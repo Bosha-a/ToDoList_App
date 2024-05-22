@@ -1,2 +1,2 @@
 ﻿# ToDoList_App
-## Practical 
+## This Repo was created to publish our project 

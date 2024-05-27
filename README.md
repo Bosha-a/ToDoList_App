@@ -19,7 +19,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 </div>
 
 
-#### this main screen whic contains tasks, deadline and description of tasks 
+#### this main screen which contains tasks, deadline and description of the tasks 
 
 <div align = "center">
 
@@ -28,7 +28,10 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 </div>
 
-#### if you want to delete that you have done click on delete button to remove it from the list 
+#### >> when you add the task you should click on refresh button to have been shown in the list     
+#### >> if you want to delete that you have done click on delete button to remove it from the list  
+#### >> if you want to show the task in an independent screen you can click on task and click on show button  
+
 
 <div align="center">
 
@@ -40,7 +43,15 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 #### if you want to add tasks to the list click on Add button to then this screen will show for you to add task and its details
 
+https://cdn.discordapp.com/attachments/1135257200768585901/1242920571176484975/IMG-20240518-WA0010.jpg?ex=6655863c&is=665434bc&hm=7973f1f9953cdb8e0a40fefee6b4b650adba3392c09ec03581d008f4738f42ec&
 
+## Tools 
+- #### [Intellij IDE](https://www.jetbrains.com/idea/download/?section=windows)
+    - download from here 
+- #### [PhpMyAdmin](https://www.phpmyadmin.net/)
+    - to connect Gui with database 
+- #### [Scene Builder](https://gluonhq.com/products/scene-builder/)
+    - download from here to coordinate Xml files
 
 
 ## Resources 
@@ -52,10 +63,6 @@ After a lot of research, we found that we, as students, needed to coordinate our
 - #### [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
 - #### [JavaFX Documentation](https://fxdocs.github.io/docs/html5/)
 - #### [Geeks Tutorial](https://www.geeksforgeeks.org/javafx-tutorial/)
-
-
-
-
 
 ## Team Members: 
 - Abdallah Beshary

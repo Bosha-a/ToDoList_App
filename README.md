@@ -68,8 +68,9 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 ## Resources 
 <div align="center">
-  
+
 ![image](https://github.com/Bosha-a/ToDoList_App/assets/116520490/cd99685a-6913-4324-9c8d-59425aa33b29)
+  
 </div>
 
 - #### [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)

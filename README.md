@@ -6,7 +6,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align = "center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920570069323828/IMG-20240518-WA0006.jpg?ex=664f977c&is=664e45fc&hm=6b12325d80566f6bc42d970ddd3507dc8dc368b5dccb34ffa1dfd0ce56089a8d&)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920569817796649/IMG-20240518-WA0005.jpg?ex=666e92bc&is=666d413c&hm=d2e675285ef7ccc56b71a9442b54e1535a9b939416f46375274084b15eaeccd3&)
 
 </div>
 
@@ -14,7 +14,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align = "center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920569817796649/IMG-20240518-WA0005.jpg?ex=664f977c&is=664e45fc&hm=dad43f69e46416fa50ab696f210231fbd93cdcada8fd0b519fc6133024d29577&)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920570069323828/IMG-20240518-WA0006.jpg?ex=666e92bc&is=666d413c&hm=d27785af491415014e3f60fc42c30bdd9d7c458b16b551419f2c488a52507c8c&)
 
 </div>
 
@@ -23,8 +23,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align = "center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920571474411763/IMG-20240518-WA0011.jpg?ex=664f977c&is=664e45fc&hm=9744992a12012ea29f8c4b4e6997df75deaa4373e5eabf59583e751ddd441717&
-)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920571474411763/IMG-20240518-WA0011.jpg?ex=666e92bc&is=666d413c&hm=0ae356dbed35304b3e249dc0f50fe20fc2e58d97dbcf69f8cd1870f0e8a3bdc1&)
 
 </div>
 
@@ -33,8 +32,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align="center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920570346278972/IMG-20240518-WA0007.jpg?ex=664f977c&is=664e45fc&hm=52ebbec0425a13dddbf0ed67d60e88c88d3223ea7f85e5d1e3db500fe496d3d8&
-)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920570346278972/IMG-20240518-WA0007.jpg?ex=666e92bc&is=666d413c&hm=62a9db86cb8af03627b5ac952935e05768e4dedd2aedcab0dbd3c9e11f87db13&)
 
 </div>
 
@@ -42,7 +40,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align="center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920571176484975/IMG-20240518-WA0010.jpg?ex=6655863c&is=665434bc&hm=7973f1f9953cdb8e0a40fefee6b4b650adba3392c09ec03581d008f4738f42ec&)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920571176484975/IMG-20240518-WA0010.jpg?ex=666e92bc&is=666d413c&hm=3371fe95a83a192dc2964b71fa49093f1542af083781b7b0025903d2e4d571b1&)
 
 </div>
 
@@ -52,8 +50,7 @@ After a lot of research, we found that we, as students, needed to coordinate our
 
 <div align = "center">
 
-![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920571474411763/IMG-20240518-WA0011.jpg?ex=664f977c&is=664e45fc&hm=9744992a12012ea29f8c4b4e6997df75deaa4373e5eabf59583e751ddd441717&
-)
+![image](https://cdn.discordapp.com/attachments/1135257200768585901/1242920570954322133/IMG-20240518-WA0008.jpg?ex=666e92bc&is=666d413c&hm=97b0eaa364f50bb808337b85a1f5da1efcf983628dd7f8202ad72cc18d8ea1df&)
 
 </div>
 
